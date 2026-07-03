@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+.env
+secrets.txt
+
+.DS_Store
+Thumbs.db
+
+*.csv
+*.zip
+*.bak*
+*.swp
+CSV Files/
